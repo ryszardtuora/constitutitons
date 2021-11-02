@@ -1,0 +1,210 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.9.17)  2 NOV 2021 22:31
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18>
+(/usr/share/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@chapter=\count180
+\c@section=\count181
+\c@subsection=\count182
+\c@subsubsection=\count183
+\c@paragraph=\count184
+\c@subparagraph=\count185
+\c@figure=\count186
+\c@table=\count187
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(/usr/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2021/03/24 3.56 The Babel package
+
+(/usr/share/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2021/03/24 3.56 Babel common definitions
+\babel@savecnt=\count188
+\U@D=\dimen139
+\l@babelnohyphens=\language87
+
+(/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count189
+
+(/usr/share/texmf-dist/tex/generic/babel-polish/polish.ldf
+Language: polish 2005/03/31 v1.2l Polish support from the babel system
+Package babel Info: Making " an active character on input line 83.
+\pl@left=\dimen140
+\pl@down=\dimen141
+\pl@right=\dimen142
+\pl@temp=\dimen143
+))
+(/usr/share/texmf-dist/tex/latex/polski/polski.sty
+Package: polski 2017/05/04 v1.3.4 Polish language package
+
+   Inputenc package detected. Catcodes not changed.
+   Switching to Polish text encoding and Polish maths fonts.
+(/usr/share/texmf-dist/tex/latex/base/ot4enc.def
+File: ot4enc.def 2020/08/10 v2.0s Standard LaTeX file
+Now handling font encoding OT4 ...
+... no UTF-8 mapping file for font encoding OT4
+)
+LaTeX Font Info:    Trying to load font information for OT4+cmr on input line 3
+60.
+
+(/usr/share/texmf-dist/tex/latex/polski/ot4cmr.fd
+File: ot4cmr.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT4/cmr/bx/n on input line 360.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT4/cmss/m/n on input line 360.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT4/cmr/m/it on input line 360.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT4/cmtt/m/n on input line 360.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT4/cmss/bx/n on input line 360.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT4/cmr/bx/it on input line 360.
+LaTeX Font Info:    Encoding `OT1' has changed to `OT4' for symbol font
+(Font)              `operators' in the math version `normal' on input line 360.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT4/cmr/m/n on input line 360.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/plm/m/it on input line 360.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/plsy/m/n on input line 360.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/plex/m/n on input line 360.
+LaTeX Font Info:    Encoding `OT1' has changed to `OT4' for symbol font
+(Font)              `operators' in the math version `bold' on input line 360.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT4/cmr/bx/n on input line 360.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/plm/b/it on input line 360.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/plsy/b/n on input line 360.
+)
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count190
+\l__pdf_internal_box=\box47
+) (./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Trying to load font information for OML+plm on input line 1
+2.
+
+(/usr/share/texmf-dist/tex/latex/polski/omlplm.fd
+File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    Trying to load font information for OMS+plsy on input line 
+12.
+
+(/usr/share/texmf-dist/tex/latex/polski/omsplsy.fd
+File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    Trying to load font information for OMX+plex on input line 
+12.
+
+(/usr/share/texmf-dist/tex/latex/polski/omxplex.fd
+File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <12> on input line 12.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <8> on input line 12.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <6> on input line 12.
+
+
+LaTeX Warning: No \author given.
+
+[1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <10> on input line 27.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <7> on input line 27.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <5> on input line 27.
+
+Overfull \hbox (1.88945pt too wide) in paragraph at lines 27--28
+\OT4/cmr/m/n/10 Religi¡ na-ro-dow¡ pa-nu-j¡c¡ jest i b¦-dzie wiara ±wi¦ta rzym-
+ska ka-to-licka ze wszyst-
+ []
+
+
+Underfull \vbox (badness 1609) has occurred while \output is active []
+
+ [1]
+[2] [3] [4] [5] [6] [7] [8] [9]
+Overfull \hbox (1.99216pt too wide) in paragraph at lines 147--162
+\OT4/cmr/m/it/10 Kazimierz ksia»¦ Sa-pieha, ge-ne-raª ar-ty-le-rii lit., mar-sz
+a-ªek kon-fe-de-ra-cji W.Ks.Lit. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--162
+
+ []
+
+[1] (./main.aux) ) 
+Here is how much of TeX's memory you used:
+ 1535 strings out of 478994
+ 22248 string characters out of 5864751
+ 336509 words of memory out of 5000000
+ 19042 multiletter control sequences out of 15000+600000
+ 414015 words of font info for 53 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 45i,8n,54p,3099b,219s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/pl/plit.enc}{/usr/shar
+e/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/share/texmf-dist/f
+onts/enc/dvips/pl/plrm.enc}</usr/share/texmf-dist/fonts/type1/public/pl/plbx12.
+pfb></usr/share/texmf-dist/fonts/type1/public/pl/plr10.pfb></usr/share/texmf-di
+st/fonts/type1/public/pl/plr12.pfb></usr/share/texmf-dist/fonts/type1/public/pl
+/plr17.pfb></usr/share/texmf-dist/fonts/type1/public/pl/plr6.pfb></usr/share/te
+xmf-dist/fonts/type1/public/pl/plr7.pfb></usr/share/texmf-dist/fonts/type1/publ
+ic/pl/plr8.pfb></usr/share/texmf-dist/fonts/type1/public/pl/plti10.pfb></usr/sh
+are/texmf-dist/fonts/type1/public/pl/plti12.pfb></usr/share/texmf-dist/fonts/ty
+pe1/public/pl/plti8.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm
+1000.pfb>
+Output written on main.pdf (12 pages, 123588 bytes).
+PDF statistics:
+ 90 PDF objects out of 1000 (max. 8388607)
+ 64 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
